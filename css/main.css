@@ -4,16 +4,18 @@ body{
 
 .form {
     margin: 100px auto;
+    width: 400px;
     text-align: center;
 }
 
 .form__input {
     margin-bottom: 20px;
+    padding: 10px 20px;
 }
 
 .form__result {
     margin-bottom: 20px;
-    padding: 18px;
+    padding: 10px 20px;
 }
 
 .form__btn {
