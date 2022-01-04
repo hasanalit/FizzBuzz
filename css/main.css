@@ -1,0 +1,22 @@
+body{
+    background-color:#ED213A;
+}
+
+.form {
+    margin: 100px auto;
+    text-align: center;
+}
+
+.form__input {
+    margin-bottom: 20px;
+}
+
+.form__result {
+    margin-bottom: 20px;
+    padding: 18px;
+}
+
+.form__btn {
+    color: #fff;
+    background-color: #FDC830;
+}
